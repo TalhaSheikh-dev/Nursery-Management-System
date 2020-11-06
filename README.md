@@ -52,4 +52,16 @@ Through this file we can restore and backup data if we want to.
 
 
 # The login page 
-![](https://github.com/TalhaSheikh-dev/Medical-Store-Management-System/blob/main/images/login.PNG)
+![](https://github.com/TalhaSheikh-dev/Nursery-Management-System/blob/main/images/login.PNG)
+
+# The Main Menu page 
+![](https://github.com/TalhaSheikh-dev/Nursery-Management-System/blob/main/images/main_menu.PNG)
+
+# The Add Purchase page 
+![](https://github.com/TalhaSheikh-dev/Nursery-Management-System/blob/main/images/add_purchase.PNG)
+
+# The Dead Plants page 
+![](https://github.com/TalhaSheikh-dev/Nursery-Management-System/blob/main/images/dead_plants.PNG)
+
+# The Growing Plants page 
+![](https://github.com/TalhaSheikh-dev/Nursery-Management-System/blob/main/images/growing_plants.PNG)
