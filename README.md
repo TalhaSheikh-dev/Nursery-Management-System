@@ -20,5 +20,36 @@ Through this file we can restore and backup data if we want to.
 - Delete Product
 - Search Product
 - View all Product
-- Check Stock
-  
+
+## Purchase Module
+- Add purchase
+- Delete purchase
+- Search purchase
+- View all purchase
+
+## Sales Module
+- Add Sales
+- Delete Sales
+- Search Sales
+
+## Suplier Module
+- Add suplier
+- Delete suplier
+- Search suplier
+
+## Inventory Module
+- Check stock
+- Dead Plants
+- Growing Plants  
+
+## Profit/loss
+- OverAll sales Report
+- OverAll Purchase Report
+- Inventory report
+
+
+***The reports are generated in a pdf format which can be saved in the local disk for later use.***
+
+
+# The login page 
+![](https://github.com/TalhaSheikh-dev/Medical-Store-Management-System/blob/main/images/login.PNG)
